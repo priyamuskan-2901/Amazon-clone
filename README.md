@@ -1,2 +1,2 @@
-# Amazon-clone
-Create an Amazon clone using HTML and CSS.
+git # Amazon-clone
+Create an Amazon clone.
